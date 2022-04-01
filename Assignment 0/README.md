@@ -1,4 +1,4 @@
-**five topics related to computing 
+five topics related to computing 
 
 -Not sure if it quite counts as computing but the metaverse is an interesting topic. It reminds me of Ready Player One (the movie, I've never read the book). As much as I dislike Zuckerberg and the monopoly he is starting to have on the internet, I think the metaverse is an interesting idea/concept
 
@@ -11,7 +11,7 @@
 -Algorithms for sorting. I'm super into Minecraft and learning about how they make automatic sorter algorithms. It's not the same as computing in real life, but algorithms can be used for so many things and I think having a bunch of things automatically sorted by a simple algorithm is pretty neat
 
 
-**five topics that you feel are difficult right now or topics that you think are generally difficult topics related to computer or computing,
+five topics that you feel are difficult right now or topics that you think are generally difficult topics related to computer or computing,
 
 -I'm in discrete math right now and this class seems to use a lot of that, and so far I'm kind of understanding it but it's such a different way of thinking it's a bit difficult for me now
 
